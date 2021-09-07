@@ -1,4 +1,6 @@
 *.wmv
 *.mp4
+*.avi
 */*.mp4
 */*.wmv
+*/*.avi
